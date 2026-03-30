@@ -1,6 +1,6 @@
 # JCrypto — Automated Crypto Trading On Autopilot
 
-**[jcrypto.app](https://nats-trading-app-dev.web.app)**
+**[jcrypto.net](https://jcrypto.net)**
 
 JCrypto is a crypto trading bot platform that lets you deploy backtested algorithmic strategies in minutes. Paper trade for free, go live when you're ready.
 
